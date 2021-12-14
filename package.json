@@ -1,0 +1,22 @@
+{
+  "name": "practice-assessment-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "misc.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeseekia/practice-assessment-4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeseekia/practice-assessment-4/issues"
+  },
+  "homepage": "https://github.com/jeseekia/practice-assessment-4#readme",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
